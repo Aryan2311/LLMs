@@ -1,0 +1,5 @@
+We learned the core mechanism of diffusion models  that is the concept of "diffusing" information across multiple steps or iterations.
+Each step involves applying a series of transformations to gradually refine the predicted distribution of the next token.
+The process begins with an initial distribution.
+These steps typically involve sampling from the current distribution, conditioning on the observed tokens, and applying a set of transformation functions.
+The transformation functions act as "diffusion operators" that update the distribution by spreading and refining the information across the context.

@@ -1,0 +1,6 @@
+In this course we got to know the basic structure of the openai.ChatCompletion function and how to effectively use it by passing the prompts to it.
+We saw how we can use iterative statements to feed the model on multiple inputs at one go.
+We saw how the model could be used to summarize a given text by the user.
+We also go through an important characterstic of the LLM model how it can inferr the sentiment of the user.
+We transformed the inputs and the outputs from one format to the other conveniently.
+At last we successfully build an AI Chatbot to be used at a restaurant using LLM model.

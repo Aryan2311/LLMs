@@ -1,0 +1,7 @@
+In this course we have discussed about the types of LLM Models and how to use them by giving suitable prompt.
+We have used the OpenAI library for using the gpt-3.5 LLM Model.
+We learned how the LLM models read the texts in the form of tokens.
+And how we can use LLMs to classify the user message in different terms.
+We also saw how the Moderation method could be used to see if the given text follows the moral conduct like we can check if there are some bad messages in the text.
+We also saw how we can divide the input to the assistant into a chain of tasks to let the model better react to the problem.
+At last we saw how we should evaluate our model sso that it is not prone to any error in the outputs.
